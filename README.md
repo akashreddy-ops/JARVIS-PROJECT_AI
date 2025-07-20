@@ -61,8 +61,33 @@ JARVIS (Just A Rather Very Intelligent System) is a **voice-controlled AI assist
 
 ## 🧪 How to Run Locally
 
-1. **Clone the repository**  
-```bash
-               
+1.     **Clone the repository**  
+
+       git clone https://github.com/yourusername/jarvis-voice-assistant.git
+       cd jarvis-voice-assistant
+
+2.      python -m venv venv
+        venv\Scripts\activate    # On Windows
+
+3.      pip install -r requirements.txt
+
+4.       python model_train.py
+5.     python model_test.py
+
+
+
+| Command            | Response / Action                            |
+| ------------------ | -------------------------------------------- |
+| “open chrome”      | Launches Google Chrome                       |
+| “open notepad”     | Launches Notepad                             |
+| “today’s schedule” | Speaks out your current day’s class schedule |
+| “hi” or “hello”    | Friendly reply from JARVIS                   |
+| “open whatsapp”    | Opens WhatsApp Desktop (if installed)        |
+
+
+📷 Screenshots
+
+      <img width="1919" height="1079" alt="Screenshot 2025-07-19 231057" src="https://github.com/user-attachments/assets/2c23ad8e-7595-4a97-baf2-86771e21ffab" />
+
 
 
