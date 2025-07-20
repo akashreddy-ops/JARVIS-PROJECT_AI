@@ -111,6 +111,7 @@ JARVIS (Just A Rather Very Intelligent System) is a **voice-controlled AI assist
 📬 Contact
  - If you liked this project or have suggestions, feel free to connect with me:
    Akash Reddy Danapana
+
    🔗 LinkedIn(linkedin.com/in/akash-reddy-a761b3321)
 
 
