@@ -87,7 +87,7 @@ JARVIS (Just A Rather Very Intelligent System) is a **voice-controlled AI assist
 
 📷 Screenshots
 
-      <img width="1919" height="1079" alt="Screenshot 2025-07-19 231057" src="https://github.com/user-attachments/assets/2c23ad8e-7595-4a97-baf2-86771e21ffab" />
+      "C:\Users\danap\Pictures\Screenshots\Screenshot 2025-07-19 231057.png"
 
 
 
