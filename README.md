@@ -35,3 +35,60 @@ JARVIS (Just A Rather Very Intelligent System) is a **voice-controlled AI assist
 
 ## 📁 Project Structure
 
+📂 JARVIS/
+│
+├── intents.json # Training data for the model (user patterns & responses)
+├── chat_model.h5 # Trained Keras model
+├── label_encoder.pkl # Encoded class labels
+├── tokenizer.pkl # Fitted tokenizer for text input
+├── model_train.py # Trains the model using intents.json
+├── main.py # Main assistant logic (speech input, schedule, app handling)
+├── model_test.py # Interface for testing voice commands
+├── venv/ # Python virtual environment
+
+
+---
+
+## 🚀 Features
+
+- 🔊 **Voice Activation** – Talk to JARVIS, and it listens!
+- 🧾 **Personalized Daily Schedule** – Custom day-wise class schedule
+- 💻 **App Management** – Open/Close system apps via command
+- 🧠 **AI-Powered Responses** – Trained on intent patterns using a custom dataset
+- 📚 **Easy to Train** – Just update the `intents.json` and retrain!
+
+---
+
+## 🧪 How to Run Locally
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/yourusername/jarvis-voice-assistant.git
+cd jarvis-voice-assistant
+
+
+python -m venv venv
+venv\Scripts\activate    # On Windows
+
+pip install -r requirements.txt
+
+python model_train.py
+
+
+python model_test.py
+
+
+| Command            | Response / Action                            |
+| ------------------ | -------------------------------------------- |
+| “open chrome”      | Launches Google Chrome                       |
+| “open notepad”     | Launches Notepad                             |
+| “today’s schedule” | Speaks out your current day’s class schedule |
+| “hi” or “hello”    | Friendly reply from JARVIS                   |
+| “open whatsapp”    | Opens WhatsApp Desktop (if installed)        |
+
+
+📷 Screenshots
+
+<img width="1919" height="1079" alt="Screenshot 2025-07-19 231057" src="https://github.com/user-attachments/assets/ef1eaeb3-fed9-456e-8db5-26efa63238b0" />
+
+
