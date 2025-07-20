@@ -96,7 +96,8 @@ JARVIS (Just A Rather Very Intelligent System) is a **voice-controlled AI assist
 <img width="1919" height="1079" alt="Screenshot 2025-07-20 105043" src="https://github.com/user-attachments/assets/e63cfde2-99e1-4f05-be90-eb687009d624" />
 
 💡 What I Learned
--Implementing voice recognition and text-to-speech in Python
+
+       -Implementing voice recognition and text-to-speech in Python
 
 
 
