@@ -98,6 +98,25 @@ JARVIS (Just A Rather Very Intelligent System) is a **voice-controlled AI assist
 💡 What I Learned
 
  - Implementing voice recognition and text-to-speech in Python
+ - Structuring and training a basic NLP model using intents.json
+ - Creating a modular assistant that can be extended with new commands
+ - Automating desktop workflows
+
+🌱 Future Improvements
+ - Integrate voice wake-word (e.g., “Hey JARVIS”)
+ - Add GUI for non-terminal users
+ - Connect with APIs (Weather, Calendar, Email)
+ - Add personalized reminders and alarms
+
+📬 Contact
+ - If you liked this project or have suggestions, feel free to connect with me:
+   Akash Reddy Danapana
+   🔗 LinkedIn(linkedin.com/in/akash-reddy-a761b3321)
+   📫 Email: danapanaakashreddy999@gmail.com
+
+⭐ Feedback
+   - If you found this project useful or interesting, don't forget to star ⭐ this repository and share it!
+It motivates me to learn and build more exciting projects like this.
 
 
 
